@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins"),
+   url("./assets/fonts/Poppins-Light.ttf") format("truetype");
+  font-weight: '600';
+  }
+
+body {
+  margin: 0;
+  font-family: 'Poppins' !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
